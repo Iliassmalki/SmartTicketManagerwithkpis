@@ -1,0 +1,8 @@
+# Ignore environment files
+.env
+.env.*
+# Keep an example tracked
+!.env.example
+
+# Ignore node modules
+node_modules/

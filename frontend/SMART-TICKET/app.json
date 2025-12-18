@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "SmartTicket",
+    "slug": "smartticket-app-2024",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#1a1a2e"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1a1a2e"
+      }
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
